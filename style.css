@@ -1,0 +1,57 @@
+.body{
+    background-image: url(https://i.pinimg.com/564x/a2/9e/04/a29e04080dbad12cd149bc4ae31d007f.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.heads{
+    margin-left: 500px;
+    margin-right: 50px;
+    gap: 20px;
+}
+
+
+.section1, .maindiv{
+    margin-left: 50px;
+}
+
+.section2{
+    background-color: whitesmoke;
+    width: 100%;
+ 
+}
+    
+.topsellers{
+    display: flex;
+    gap:5%;  
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 1;
+
+}
+    
+
+.top0{
+    width: 400px;
+    height: 270PX;
+    margin-left: 350px;
+}
+
+.section1, .maindiv, .heads {
+    display: flex;
+}
+
+
+.top1, .top2, .top3, .top4{
+    width: 225px;
+    height: 275px;
+    outline: white;
+   }
+
+.nav{
+    background-color: bisque;
+}
+
+.div4{
+background-color: white;}
